@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+### I an Edi Uni student just getting into programming!
+### I am currently learning Python and SQL, soon wanting to get into R as well!
+### Obviously I am interested in data science.
+### It is a lot of fun so far! Hope to use this place a lot.
 
 <!--
 **nabirosa/nabirosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
