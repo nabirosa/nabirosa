@@ -1,6 +1,6 @@
 ### Hello!
-### I an Edi Uni student just getting into programming!
-### I am currently learning Python and SQL, soon wanting to get into R as well!
+### I am a University of Edinburgh student just getting into programming!
+### I am currently learning R, Python, and SQL.
 ### Obviously I am interested in data science.
 ### It is a lot of fun so far! Hope to use this place a lot.
 
