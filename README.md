@@ -1,8 +1,9 @@
-### Hello!
-### I am a University of Edinburgh student just getting into programming!
-### I am currently learning R, Python, and SQL.
-### Obviously I am interested in data science.
-### It is a lot of fun so far! Hope to use this place a lot.
+## Welcome to my GitHub!
+
+# I have been using this place to mainly keep track of my learning milestones. It sort of serves as a portfolio as well, mainly because I store my Overleaf projects on here as well.
+# I am a UoE Chemistry graduate, teaching myself data science in R, SQL, and mainly in Python.
+
+I am interested in machine learning and AI, and just completing a project in constructing neural networks. Excited to learn to apply these skills to Chemistry and other related fields.
 
 <!--
 **nabirosa/nabirosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
