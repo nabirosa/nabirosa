@@ -1,9 +1,11 @@
 ## Welcome to my GitHub!
 
-# I have been using this place to mainly keep track of my learning milestones. It sort of serves as a portfolio as well, mainly because I store my Overleaf projects on here as well.
-# I am a UoE Chemistry graduate, teaching myself data science in R, SQL, and mainly in Python.
+### I have been using this place to mainly keep track of my learning milestones. It sort of serves as a portfolio as well, mainly because I store my Overleaf projects on here as well.
+### I am a UoE Chemistry graduate, teaching myself data science in R, SQL, and mainly in Python.
 
 I am interested in machine learning and AI, and just completing a project in constructing neural networks. Excited to learn to apply these skills to Chemistry and other related fields.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/nabirosa/) and see what else I am up to!
 
 <!--
 **nabirosa/nabirosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
